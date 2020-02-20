@@ -11,15 +11,13 @@ MCUXpresso [SDK](https://mcuxpresso.nxp.com/en/welcome)
 ```
 Clone TencentOS-tiny template
 ```bash
-Clone repository [tencent](http://github.com.mtuxpe)
-Or download [zip](http://github.com.mtuxpe) version
+Clone repository [tencent](https://github.com/mtuxpe/TencentOS-iMX.git)
+Or download [zip](https://github.com/mtuxpe/TencentOS-iMX/archive/master.zip) version
 Import project into MCUXpresso workspace
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
 ```
 Import project into MCUXpresso workspace
 ```bash
-pip install foobar
 Open MCUXpresso IDE.
 Click on File ->Import -> Existing Projects into Workspace ->Next
 Go to "Select  root directory option":
@@ -27,15 +25,7 @@ Click on Browse and select your cloned folder.
 
 ```
 
-## Usage
-
-```python
-import foobar
-
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
-```
-
 ## License
-[BSD 3](https://github.com/Tencent/TencentOS-tiny/blob/master/LICENSE)
+
+MCUXpresso IDE requires no activation procedure and uses no licenses.
+TencentOS-tiny[BSD 3](https://github.com/Tencent/TencentOS-tiny/blob/master/LICENSE)
