@@ -6,13 +6,13 @@ TencentOS-tiny license is 3-Clause BSD .
 ## Installation
 Install MCUXpresso IDE and i.MXRT1010 SDK
 ```bash
-MCUXpresso [IDE Development Environment ](https://www.nxp.com/design/software/development-software/mcuxpresso-software-and-tools/mcuxpresso-integrated-development-environment-ide)
-MCUXpresso [SDK for i.MX ](https://mcuxpresso.nxp.com/en/welcome)
+MCUXpresso [IDE Development Environment ] (https://www.nxp.com/design/software/development-software/mcuxpresso-software-and-tools/mcuxpresso-integrated-development-environment-ide/)
+MCUXpresso [SDK for i.MX ] (https://mcuxpresso.nxp.com/en/welcome/)
 ```
 Clone TencentOS-tiny template
 ```bash
-Clone repository [TencentOS-iMX repository](https://github.com/mtuxpe/TencentOS-iMX.git)
-Or download [zip version](https://github.com/mtuxpe/TencentOS-iMX/archive/master.zip) 
+Clone repository [TencentOS-iMX repository] (https://github.com/mtuxpe/TencentOS-iMX.git/)
+Or download [zip version] (https://github.com/mtuxpe/TencentOS-iMX/archive/master.zip/) 
 Import project into MCUXpresso workspace
 
 ```
@@ -28,5 +28,5 @@ Click on Browse and select your cloned folder.
 ## License
 ```bash
 MCUXpresso IDE requires no activation procedure and uses no licenses.
-TencentOS-tiny license [BSD 3](https://github.com/Tencent/TencentOS-tiny/blob/master/LICENSE)
+TencentOS-tiny license [BSD 3](https://github.com/Tencent/TencentOS-tiny/blob/master/LICENSE/)
 ```
