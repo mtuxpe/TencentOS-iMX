@@ -1,20 +1,20 @@
 # i.MX RT1010 TencentOS-tiny
-This project is a MCUXpresso template for TencentOS-tiny kernel .
-TecentOS-tiny a is a real-time operating system (RTOS) developed by Tencent for the Internet of Things. 
-Tencent claims that its RTOS is highly competitive in terms of resource footprint, equipment cost,
-power management, and security.
+This project is a MCUXpresso template for TencentOS-tiny kernel.<br/>
+TecentOS-tiny a is a real-time operating system (RTOS) developed by Tencent for the Internet of Things.<br/>
+Tencent claims that its RTOS is highly competitive in terms of resource footprint, equipment cost,<br/>
+power management, and security.<br/>
 TencentOS-tiny license is 3-Clause BSD .
 ## Installation
 
 ### Install MCUXpresso IDE and i.MXRT1010 SDK
 
-MCUXpresso [IDE Development Environment ] (https://www.nxp.com/design/software/development-software/mcuxpresso-software-and-tools/mcuxpresso-integrated-development-environment-ide/)
-MCUXpresso [SDK for i.MX ] (https://mcuxpresso.nxp.com/en/welcome/)
+MCUXpresso [IDE Development Environment ] (https://www.nxp.com/design/software/development-software/mcuxpresso-software-and-tools/mcuxpresso-integrated-development-environment-ide/)<br/>
+MCUXpresso [SDK for i.MX ] (https://mcuxpresso.nxp.com/en/welcome/)<br/>
 
 ### Clone TencentOS-tiny template
 
-Clone repository [TencentOS-iMX repository] (https://github.com/mtuxpe/TencentOS-iMX.git/)
-Or download [zip version] (https://github.com/mtuxpe/TencentOS-iMX/archive/master.zip/) 
+Clone repository [TencentOS-iMX repository] (https://github.com/mtuxpe/TencentOS-iMX.git/)<br/>
+Or download [zip version] (https://github.com/mtuxpe/TencentOS-iMX/archive/master.zip/)<br/>
 
 ### Import project into MCUXpresso workspace
 ```bash
@@ -26,9 +26,9 @@ Click on Browse and select your cloned folder.
 ```
 ## License
 
-MCUXpresso IDE requires no activation procedure and uses no licenses.
-TencentOS-tiny license [BSD 3](https://github.com/Tencent/TencentOS-tiny/blob/master/LICENSE/)
+MCUXpresso IDE requires no activation procedure and uses no licenses.<br/>
+TencentOS-tiny license [BSD 3](https://github.com/Tencent/TencentOS-tiny/blob/master/LICENSE/)<br/>
 
 ## TODO
-Add [connectivity](https://github.com/Tencent/TencentOS-tiny/tree/master/components/connectivity/) example
+Add [connectivity](https://github.com/Tencent/TencentOS-tiny/tree/master/components/connectivity/) example<br/>
 
