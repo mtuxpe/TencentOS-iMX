@@ -29,7 +29,7 @@ Click on Browse and select your cloned folder.
 ## License
 
 MCUXpresso IDE requires no activation procedure and uses no licenses.<br/>
-TencentOS-tiny license [BSD 3].(https://github.com/Tencent/TencentOS-tiny/blob/master/LICENSE/)<br/>
+TencentOS-tiny license.[BSD 3](https://github.com/Tencent/TencentOS-tiny/blob/master/LICENSE/)<br/>
 
 ## TODO
 Add [connectivity](https://github.com/Tencent/TencentOS-tiny/tree/master/components/connectivity/) example.<br/>
