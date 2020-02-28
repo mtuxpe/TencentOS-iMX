@@ -311,7 +311,6 @@ void task2(void *arg)
 
 int main(void) {
 
-status_t result;
 osStatus st;
 osThreadId otid;
 
@@ -339,11 +338,9 @@ osThreadId otid;
 	}
 
 
-//	st = osKernelStart(); // Start TencentOS Tiny
-//	TOS_ERROR_CHECK(st);
 
 #if defined(SDK_I2C_BASED_COMPONENT_USED) && SDK_I2C_BASED_COMPONENT_USED
-
+	status_t result;
 	/*Clock setting for LPI2C*/
 	CLOCK_SetMux(kCLOCK_Lpi2cMux, LPI2C_CLOCK_SOURCE_SELECT);
 	CLOCK_SetDiv(kCLOCK_Lpi2cDiv, LPI2C_CLOCK_SOURCE_DIVIDER);
