@@ -6,6 +6,11 @@ TecentOS-tiny a is a real-time operating system (RTOS) developed by Tencent for 
 Tencent claims that the RTOS is highly competitive in terms of resource footprint, equipment cost,<br/>
 power management, and security.<br/>
 TencentOS-tiny license is 3-Clause BSD .
+## Useful links
+
+TencentOS-tiny [Original repository](https://github.com/Tencent/TencentOS-tiny)<br/>
+TencentOS-tiny architecture[English](https://github.com/Tencent/TencentOS-tiny/blob/master/README_en.md)<br/>
+
 ## Installation
 
 ### Install MCUXpresso IDE and i.MXRT1010 SDK
